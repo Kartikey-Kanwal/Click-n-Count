@@ -26,13 +26,8 @@ For every wrong click, you lose -5 points.
 After 20 seconds, the game ends and your total score is shown.
 Click Restart to play again.
 
-🌐 Live Demo
-
-[👉 Click here to play!](https://Kartikey-Kanwal.github.io/Number-Game/)
-
-
 🛠️ Technologies Used
 
-HTML – structure of the game
-CSS – styling and layout
-JavaScript – game logic and interactivity
+HTML – structure of the game,
+CSS – styling and layout,
+JavaScript – game logic and interactivity.
