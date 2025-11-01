@@ -1,10 +1,10 @@
-Number Shooter 🎯
+Click ‘n Count 🎯
 
-An interactive browser-based number shooting game built with HTML, CSS, and JavaScript, featuring a timer, scoring system, and restart option.
+An interactive browser-based number game built with HTML, CSS, and JavaScript, featuring a timer, scoring system, and restart option.
 
 📖 Description
 
-This is a fun and interactive Number Shooter Game built using HTML, CSS, and JavaScript.
+This is a fun and interactive Click ‘n Count Game built using HTML, CSS, and JavaScript.
 The player has 20 seconds to score as many points as possible by clicking on the correct target number that appears on the screen.
 After each click, both the target and the order of numbers change to make the game challenging.
 Players earn +10 points for every correct click and lose -5 points for an incorrect one. When the timer runs out, the total score is displayed along with a button to restart the game.
